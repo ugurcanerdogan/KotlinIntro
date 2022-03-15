@@ -10,4 +10,6 @@ Test results :
 
 ![testResults](https://i.hizliresim.com/lzz3s4f.JPG)
 
-last commit : 24.07.2021
+<del>last commit : 24.07.2021<del>
+
+last commit : 15.03.2022 [circle-ci and dependabot integrations added]
